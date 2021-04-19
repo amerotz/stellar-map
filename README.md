@@ -11,3 +11,12 @@ Fantasy interactive procedural sky generator in Processing.
 - Press 8 to toggle current quadrant and nearest star highlighting.
 - Press 1-3 to move between different z-index skies.
 - Pressing 2 makes you return to default 0 z-index sky.
+## Sample images
+
+(images/stellar-map1.png)
+
+
+(images/stellar-map2.png)
+
+
+(images/stellar-map3.png)

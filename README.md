@@ -1,5 +1,5 @@
 # stellar-map
-Fantasy interactive procedural sky generator.
+Fantasy interactive procedural sky generator in Processing.
 
 ## Commands
 - Press 4-6 to turn left-right, 5 to go forward.
